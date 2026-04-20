@@ -188,7 +188,7 @@ All business logic lives in SQL. DAX handles presentation and time intelligence 
 
 | Detail | Info |
 |---|---|
-| File | data/raw/novabay_sales_data.csv |
+| File | data/novabay_sales_data.csv |
 | Rows | 15,000 order line items |
 | Period | January 2022 – December 2024 |
 | Customers | 50 unique customers |
@@ -240,9 +240,9 @@ This creates `data/raw/novabay_sales_data.csv`
 retail-profitability-dashboard/
 │
 ├── data/
-│   ├── raw/
-│   │   └── novabay_sales_data.csv
-│   └── processed/
+│   ├── novabay_sales_data.csv
+│   
+│   
 │
 ├── sql/
 │   ├── 01_database_setup.sql
