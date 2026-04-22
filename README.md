@@ -276,4 +276,4 @@ retail-profitability-dashboard/
 
 **Ashish Kumar Dongre**
 
-[LinkedIn](https://www.linkedin.com/in/analytics-ashish/) &nbsp;|&nbsp; [GitHub](https://github.com/analytics-ak)
+[LinkedIn](https://www.linkedin.com/in/ashish-kumar-dongre-742a6217b/) &nbsp;|&nbsp; [GitHub](https://github.com/analytics-ak)
